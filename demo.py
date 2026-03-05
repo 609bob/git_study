@@ -1,5 +1,0 @@
-import time
-
-time
-
-print
